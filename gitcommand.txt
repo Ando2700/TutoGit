@@ -19,4 +19,4 @@ git touch .gitignore (I put the filename I don't want to commit or to see status
 
 git branch <branchName>
 
-git 
+git branch -l 
