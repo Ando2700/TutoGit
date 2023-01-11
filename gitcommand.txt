@@ -23,4 +23,4 @@ git branch -l
 
 git checkout <branchName> (master=me)
 
-git merge fichiersJS
+git merge <branchothermaster>
