@@ -2,3 +2,21 @@ git init
 
 git config --global user.name 'Ando2700'
 git config --global user.email 'andomahefa534@gmail.com'
+
+git add <filename>(pre-save)
+
+git status (See the status of files and see if files are pre-saved)
+
+git add . (add all files)
+
+git rm r --cached . (rm rercursivly all files)
+
+git checkout -- . (undo files removed)
+
+git commit -m 'Description changes done'
+
+git touch .gitignore (I put the filename I don't want to commit or to see status in the file)
+
+git branch <branchName>
+
+git 
