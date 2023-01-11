@@ -1,0 +1,4 @@
+git init 
+
+git config --global user.name 'Ando2700'
+git config --global user.email 'andomahefa534@gmail.com'
