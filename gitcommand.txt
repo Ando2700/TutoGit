@@ -15,7 +15,7 @@ git checkout -- . (undo files removed)
 
 git commit -m 'Description changes done'
 
-git touch .gitignore (I put the filename I don't want to commit or to see status in the file)
+touch .gitignore (I put the filename I don't want to commit or to see status in the file)
 
 git branch <NewBranchName>
 
