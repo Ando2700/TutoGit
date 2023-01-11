@@ -17,6 +17,9 @@ git commit -m 'Description changes done'
 
 git touch .gitignore (I put the filename I don't want to commit or to see status in the file)
 
-git branch <branchName>
+git branch <NewBranchName>
 
 git branch -l 
+
+git checkout <branchName> (master=me)
+
