@@ -24,3 +24,10 @@ git branch -l
 git checkout <branchName> (master=me)
 
 git merge <branchothermaster>
+
+git remote add origin https://github.com/Ando2700/TutoGit.git
+git branch -M main
+git push -u origin main
+
+touch README.md
+git push (push all files on github)
